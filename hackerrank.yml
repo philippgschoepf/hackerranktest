@@ -1,0 +1,7 @@
+# This is an internal file that is required by the platform. Do not delete this file.
+# Edit this file if you need to update project configuration.
+
+version: 2.0
+configuration:
+  default_open_paths:
+    - sample.ipynb
